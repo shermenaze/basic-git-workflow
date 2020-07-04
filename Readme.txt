@@ -1,2 +1,2 @@
 This is a readme file
-I'm in conflict branch
+I'm in master branch
