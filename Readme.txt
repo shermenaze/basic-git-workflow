@@ -1,2 +1,2 @@
 This is a readme file
-Some shit from conflict
+I'm in conflict branch
