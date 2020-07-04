@@ -1,2 +1,2 @@
 This is a readme file
-Some edit conflict!
+Some conflicting texts from master branch
