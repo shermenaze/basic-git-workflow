@@ -1,2 +1,2 @@
 This is a readme file
-What the fuck
+Some edit conflict!
